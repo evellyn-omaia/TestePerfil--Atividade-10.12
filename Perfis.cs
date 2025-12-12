@@ -57,8 +57,8 @@ namespace Projeto_Senai___10._12
 
             Console.WriteLine("==================================");
             Console.WriteLine($"Maior pontuação: {maior}");
-Console.WriteLine("");
-Console.WriteLine($"Parabéns {nome}!");
+            Console.WriteLine("");
+            Console.WriteLine($"Muito bem, {nome}!");
 
             for (int i = 0; i < perfisEmpate.Count; i++)
             {
@@ -118,4 +118,5 @@ Console.WriteLine($"Parabéns {nome}!");
 
         }
     }
+
 }
